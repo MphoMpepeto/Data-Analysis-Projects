@@ -1,4 +1,6 @@
 -- Data Cleaning in MySQL--
+-- Data from https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 SELECT *
 FROM layoffs;
 
